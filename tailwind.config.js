@@ -7,7 +7,8 @@ const colors = {
   white: twColors.white,
   primary:'#FF9902',
   secondary:'#161D25',
-  'bg-color':'#F2F2F5'
+  'bg-color':'#F2F2F5',
+  red: twColors.red[400]
 }
 
 module.exports = {

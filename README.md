@@ -73,3 +73,12 @@ const nextConfig = {
 }
 
 module.exports = nextConfig
+
+10. npm install axios
+11. npm install clsx
+12. npm install react-icons
+13. npm install sass
+14. npm install @types/js-cookie --save-dev
+15. npm install react-redux redux-persist @reduxjs/toolkit
+16. npm i @tanstack/react-query
+17. npm install react-hook-form
